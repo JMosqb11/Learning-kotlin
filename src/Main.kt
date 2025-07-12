@@ -52,3 +52,15 @@ fun readConsole(){
 }
 
 // Siempre pensar que el usuario va a hacer lo contrario, no usar la logica de nosotros como desarrolladores, sino trabajar y pensar que donde puede ir un texto el usuario agregara números o otros valores
+
+
+// En esta clase veremos lo que es un bloque try catch
+
+try{
+
+} catch(){
+
+}
+
+
+
